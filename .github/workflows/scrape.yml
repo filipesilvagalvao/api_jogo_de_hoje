@@ -2,7 +2,7 @@ name: Scraper Jogos de Hoje
 
 on:
   schedule:
-    - cron: '25 16 * * *' # roda todo dia
+    - cron: '15 5 * * *' # roda todo dia
   workflow_dispatch: # permite rodar manualmente
 
 jobs:
