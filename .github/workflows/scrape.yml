@@ -1,0 +1,33 @@
+name: Scraper Jogos de Hoje
+
+on:
+  schedule:
+    - cron: '20 16 * * *' # roda todo dia
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Rodar scraper
+        run: node scraper.js
+
+      - name: Commit do JSON atualizado
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/jogos.json
+          git commit -m "Atualiza jogos do dia" || echo "Sem alterações"
+          git push
