@@ -20,6 +20,16 @@ const scraper = async () => {
 
     const jogos_de_hoje = []
 
+    const slugify = (str) => {
+        if (!str) return ""
+        return str
+            .normalize('NFD')
+            .replace(/\p{Diacritic}/gu, '')
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, '_')
+            .replace(/^_+|_+$/g, '')
+    }
+
     let campeonatoAtual = ""
 
     linhasTr.each((index, tr) => {
@@ -33,6 +43,7 @@ const scraper = async () => {
 
         // 2️⃣ Linha de jogo
         const partida_de_futebol = {
+            id:"",
             campeonato: campeonatoAtual,
             hora: "",
             time_casa: {
@@ -67,6 +78,8 @@ const scraper = async () => {
             partida_de_futebol.canais.push(canal.text())
         })
 
+        // gerar id como slug: time_casa-vs-time_visitante
+        partida_de_futebol.id = `${slugify(partida_de_futebol.time_casa.nome)}-vs-${slugify(partida_de_futebol.time_visitante.nome)}`
         // 👉 quando terminar de montar
         jogos_de_hoje.push(partida_de_futebol)
     })
