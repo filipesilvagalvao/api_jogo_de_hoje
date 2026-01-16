@@ -1,5 +1,6 @@
 [
   {
+    "id": "sporting_cp-vs-casa_pia",
     "campeonato": "Campeonato Português",
     "hora": "17:15",
     "time_casa": {
@@ -16,6 +17,7 @@
     ]
   },
   {
+    "id": "espanyol-vs-girona",
     "campeonato": "Campeonato Espanhol",
     "hora": "17:00",
     "time_casa": {
@@ -32,6 +34,7 @@
     ]
   },
   {
+    "id": "psg-vs-lille",
     "campeonato": "Campeonato Francês",
     "hora": "17:00",
     "time_casa": {
@@ -48,6 +51,7 @@
     ]
   },
   {
+    "id": "sampdoria-vs-entella",
     "campeonato": "Série B Italiana",
     "hora": "16:30",
     "time_casa": {
@@ -63,6 +67,7 @@
     ]
   },
   {
+    "id": "dusseldorf-vs-arminia_bielefeld",
     "campeonato": "2. Bundesliga",
     "hora": "14:30",
     "time_casa": {
@@ -79,6 +84,7 @@
     ]
   },
   {
+    "id": "braunschweig-vs-magdeburg",
     "campeonato": "2. Bundesliga",
     "hora": "14:30",
     "time_casa": {
@@ -95,6 +101,7 @@
     ]
   },
   {
+    "id": "regensburg-vs-ingolstadt",
     "campeonato": "3. Liga",
     "hora": "15:00",
     "time_casa": {
@@ -112,6 +119,7 @@
     ]
   },
   {
+    "id": "melbourne_city-vs-auckland_fc",
     "campeonato": "A-League",
     "hora": "05:35",
     "time_casa": {
@@ -127,6 +135,7 @@
     ]
   },
   {
+    "id": "perth_glory-vs-brisbane_roar",
     "campeonato": "A-League",
     "hora": "07:45",
     "time_casa": {
@@ -142,6 +151,7 @@
     ]
   },
   {
+    "id": "melbourne_city_women-vs-newcastle_jets_women",
     "campeonato": "A-League Women",
     "hora": "02:50",
     "time_casa": {
@@ -157,6 +167,7 @@
     ]
   },
   {
+    "id": "western_sydney_women-vs-brisbane_roar_women",
     "campeonato": "A-League Women",
     "hora": "05:00",
     "time_casa": {
@@ -172,6 +183,7 @@
     ]
   },
   {
+    "id": "cucuta-vs-ca_huracan",
     "campeonato": "Amigável",
     "hora": "18:15",
     "time_casa": {
@@ -187,6 +199,7 @@
     ]
   },
   {
+    "id": "werder_bremen-vs-eintracht_frankfurt",
     "campeonato": "Bundesliga",
     "hora": "16:30",
     "time_casa": {
@@ -205,6 +218,7 @@
     ]
   },
   {
+    "id": "serra_es-vs-ferroviaria_es",
     "campeonato": "Campeonato Capixaba",
     "hora": "19:00",
     "time_casa": {
@@ -220,6 +234,7 @@
     ]
   },
   {
+    "id": "ferroviario-vs-horizonte",
     "campeonato": "Campeonato Cearense",
     "hora": "18:00",
     "time_casa": {
@@ -235,6 +250,39 @@
     ]
   },
   {
+    "id": "pereira-vs-llaneros",
+    "campeonato": "Campeonato colombiano",
+    "hora": "20:20",
+    "time_casa": {
+      "nome": "Pereira",
+      "img": "https://static.futbolenlatv.com/img/32/20140330122847-cd-pereira.webp"
+    },
+    "time_visitante": {
+      "nome": "Llaneros",
+      "img": "https://static.futbolenlatv.com/img/32/20250501114320-club-llaneros-fc.webp"
+    },
+    "canais": [
+      "RCN Nuestra Tele"
+    ]
+  },
+  {
+    "id": "fortaleza-vs-alianza",
+    "campeonato": "Campeonato colombiano",
+    "hora": "22:30",
+    "time_casa": {
+      "nome": "Fortaleza",
+      "img": "https://static.futbolenlatv.com/img/32/20160323124727-fortaleza.webp"
+    },
+    "time_visitante": {
+      "nome": "Alianza",
+      "img": "https://static.futbolenlatv.com/img/32/20240330075734-alianza.webp"
+    },
+    "canais": [
+      "RCN Nuestra Tele"
+    ]
+  },
+  {
+    "id": "pisa-vs-atalanta",
     "campeonato": "Campeonato italiano",
     "hora": "16:45",
     "time_casa": {
@@ -251,6 +299,7 @@
     ]
   },
   {
+    "id": "west_brom-vs-middlesbrough",
     "campeonato": "Championship",
     "hora": "17:00",
     "time_casa": {
@@ -267,6 +316,7 @@
     ]
   },
   {
+    "id": "-vs-",
     "campeonato": "Conference League",
     "hora": "09:00",
     "time_casa": {
@@ -283,6 +333,7 @@
     ]
   },
   {
+    "id": "atletico_piauiense_academy-vs-guanabara_city_fc_academy",
     "campeonato": "Copinha",
     "hora": "16:00",
     "time_casa": {
@@ -298,6 +349,7 @@
     ]
   },
   {
+    "id": "gremio_academy-vs-america_rn_academy",
     "campeonato": "Copinha",
     "hora": "18:30",
     "time_casa": {
@@ -313,6 +365,7 @@
     ]
   },
   {
+    "id": "ceara_academy-vs-xv_de_jau_academy",
     "campeonato": "Copinha",
     "hora": "20:45",
     "time_casa": {
@@ -328,6 +381,7 @@
     ]
   },
   {
+    "id": "cruzeiro_academy-vs-santos_academy",
     "campeonato": "Copinha",
     "hora": "21:30",
     "time_casa": {
@@ -343,6 +397,7 @@
     ]
   },
   {
+    "id": "den_haag-vs-cambuur",
     "campeonato": "Eerste Divisie",
     "hora": "16:00",
     "time_casa": {
@@ -358,6 +413,7 @@
     ]
   },
   {
+    "id": "castellon-vs-leganes",
     "campeonato": "LaLiga Hypermotion",
     "hora": "16:30",
     "time_casa": {
@@ -373,6 +429,7 @@
     ]
   },
   {
+    "id": "rodez-vs-le_mans",
     "campeonato": "Liga 2",
     "hora": "16:00",
     "time_casa": {
@@ -389,6 +446,7 @@
     ]
   },
   {
+    "id": "tapatio-vs-venados",
     "campeonato": "Liga de Expansion MX",
     "hora": "20:00",
     "time_casa": {
@@ -404,6 +462,7 @@
     ]
   },
   {
+    "id": "alebrijes_oaxaca-vs-atl_morelia",
     "campeonato": "Liga de Expansion MX",
     "hora": "22:00",
     "time_casa": {
@@ -419,6 +478,7 @@
     ]
   },
   {
+    "id": "correcaminos-vs-atletico_la_paz",
     "campeonato": "Liga de Expansion MX",
     "hora": "22:00",
     "time_casa": {
@@ -434,6 +494,7 @@
     ]
   },
   {
+    "id": "sochaux-vs-chateauroux",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -450,6 +511,7 @@
     ]
   },
   {
+    "id": "valenciennes-vs-bourg_en_bresse",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -466,6 +528,7 @@
     ]
   },
   {
+    "id": "dijon-vs-y",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -482,6 +545,7 @@
     ]
   },
   {
+    "id": "concarneau-vs-caen",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -498,6 +562,7 @@
     ]
   },
   {
+    "id": "quevilly_rouen-vs-stade_briochin",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -514,6 +579,7 @@
     ]
   },
   {
+    "id": "aubagne_fc-vs-paris_13_atl",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -530,6 +596,7 @@
     ]
   },
   {
+    "id": "versailles-vs-fc_rouen",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -546,6 +613,7 @@
     ]
   },
   {
+    "id": "fc_fleury_91-vs-orleans",
     "campeonato": "National",
     "hora": "15:30",
     "time_casa": {
@@ -562,6 +630,7 @@
     ]
   },
   {
+    "id": "al_najma-vs-al_fateh",
     "campeonato": "Saudi Pro League",
     "hora": "10:40",
     "time_casa": {
@@ -577,6 +646,7 @@
     ]
   },
   {
+    "id": "al_ittihad_jeddah_club-vs-al_ettifaq",
     "campeonato": "Saudi Pro League",
     "hora": "14:30",
     "time_casa": {
@@ -596,6 +666,7 @@
     ]
   },
   {
+    "id": "wanderers-vs-independiente",
     "campeonato": "Serie Río de la Plata",
     "hora": "21:00",
     "time_casa": {
