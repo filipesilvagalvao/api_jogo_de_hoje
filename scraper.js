@@ -79,7 +79,7 @@ const scraper = async () => {
         })
 
         // gerar id como slug: time_casa-vs-time_visitante
-        partida_de_futebol.id = `${slugify(partida_de_futebol.time_casa.nome)}-vs-${slugify(partida_de_futebol.time_visitante.nome)}`
+        partida_de_futebol.id = `${slugify(partida_de_futebol.time_casa.nome)}-x-${slugify(partida_de_futebol.time_visitante.nome)}`
         // 👉 quando terminar de montar
         jogos_de_hoje.push(partida_de_futebol)
     })
