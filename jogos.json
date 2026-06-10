@@ -1,182 +1,82 @@
 [
   {
-    "id": "nautico-x-fortaleza",
+    "id": "goias-x-novorizontino",
     "campeonato": "Brasileirão Série B",
-    "hora": "19:00",
+    "hora": "20:00",
     "time_casa": {
-      "nome": "Nautico",
-      "img": "https://static.futbolenlatv.com/img/32/20121222104707_náutico.webp"
+      "nome": "Goias",
+      "img": "https://static.futbolenlatv.com/img/32/20190115105819-goias.webp"
     },
     "time_visitante": {
-      "nome": "Fortaleza",
-      "img": "https://static.futbolenlatv.com/img/32/20160516115803-fortaleza-sc.webp"
+      "nome": "Novorizontino",
+      "img": "https://static.futbolenlatv.com/img/32/20170208093853-novorizontino.webp"
     },
     "canais": [
-      "SporTV",
-      "Premiere"
+      "Disney+ Premium"
     ]
   },
   {
-    "id": "ponte_preta-x-cuiaba",
+    "id": "ceara-x-avai",
     "campeonato": "Brasileirão Série B",
-    "hora": "19:00",
+    "hora": "20:00",
     "time_casa": {
-      "nome": "Ponte Preta",
-      "img": "https://static.futbolenlatv.com/img/32/20121222104742_ponte-preta.webp"
+      "nome": "Ceara",
+      "img": "https://static.futbolenlatv.com/img/32/20140724053102-ceara.webp"
     },
     "time_visitante": {
-      "nome": "Cuiaba",
-      "img": "https://static.futbolenlatv.com/img/32/20140509110254-cuiaba.webp"
+      "nome": "Avai",
+      "img": "https://static.futbolenlatv.com/img/32/20150514110915-avai.webp"
     },
     "canais": [
+      "SportyNet",
       "Disney+ Premium",
+      "Xsports",
       "ESPN"
     ]
   },
   {
-    "id": "hungria-x-cazaquistao",
-    "campeonato": "Amigável",
-    "hora": "14:00",
+    "id": "sport_recife-x-athletic_club_mg",
+    "campeonato": "Brasileirão Série B",
+    "hora": "21:00",
     "time_casa": {
-      "nome": "Hungria",
-      "img": "https://static.futbolenlatv.com/img/32/20130530093548-Hungria.webp"
+      "nome": "Sport Recife",
+      "img": "https://static.futbolenlatv.com/img/32/20180131095506-sport-recife.webp"
     },
     "time_visitante": {
-      "nome": "Cazaquistão",
-      "img": "https://static.futbolenlatv.com/img/32/20130318120627_kazajistan.webp"
+      "nome": "Athletic Club MG",
+      "img": "https://static.futbolenlatv.com/img/32/20210224104235-athletic-club-minas-gerais.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "portugal-x-nigeria",
+    "campeonato": "Amigável",
+    "hora": "16:45",
+    "time_casa": {
+      "nome": "Portugal",
+      "img": "https://static.futbolenlatv.com/img/32/20130204101449_portugal.webp"
+    },
+    "time_visitante": {
+      "nome": "Nigéria",
+      "img": "https://static.futbolenlatv.com/img/32/20130103114959_nigeria.webp"
     },
     "canais": [
       "SporTV"
     ]
   },
   {
-    "id": "azerbaijao-x-san_marino",
+    "id": "england-x-costa_rica",
     "campeonato": "Amigável",
-    "hora": "15:00",
-    "time_casa": {
-      "nome": "Azerbaijão",
-      "img": "https://static.futbolenlatv.com/img/32/20130323115040_azerbaijan.webp"
-    },
-    "time_visitante": {
-      "nome": "San Marino",
-      "img": "https://static.futbolenlatv.com/img/32/20130318120704_san-marino.webp"
-    },
-    "canais": [
-      "SporTV 2"
-    ]
-  },
-  {
-    "id": "argentina-x-islandia",
-    "campeonato": "Amigável",
-    "hora": "22:00",
-    "time_casa": {
-      "nome": "Argentina",
-      "img": "https://static.futbolenlatv.com/img/32/20130204101418_argentina.webp"
-    },
-    "time_visitante": {
-      "nome": "Islândia",
-      "img": "https://static.futbolenlatv.com/img/32/20171107062145-islandia.webp"
-    },
-    "canais": [
-      "CazeTV",
-      "Xsports",
-      "CazéTV YouTube"
-    ]
-  },
-  {
-    "id": "australia-x-mexico",
-    "campeonato": "Amistoso Feminino",
-    "hora": "06:00",
-    "time_casa": {
-      "nome": "Austrália",
-      "img": "https://static.futbolenlatv.com/img/32/20130501101148_australia.webp"
-    },
-    "time_visitante": {
-      "nome": "Mexico",
-      "img": "https://static.futbolenlatv.com/img/32/20130208071540_mexico.webp"
-    },
-    "canais": [
-      " Football Australia YouTube"
-    ]
-  },
-  {
-    "id": "brazil-x-usa",
-    "campeonato": "Amistoso Feminino",
-    "hora": "21:30",
-    "time_casa": {
-      "nome": "Brazil",
-      "img": "https://static.futbolenlatv.com/img/32/20130204124155_brasil.webp"
-    },
-    "time_visitante": {
-      "nome": "USA",
-      "img": "https://static.futbolenlatv.com/img/32/20130226100540_eeuu.webp"
-    },
-    "canais": [
-      "Ge TV",
-      "SporTV",
-      "Rede Globo"
-    ]
-  },
-  {
-    "id": "cr_flamengo_academy-x-at_paranaense_academy",
-    "campeonato": "Brasileiro U20",
-    "hora": "15:00",
-    "time_casa": {
-      "nome": "CR Flamengo Academy",
-      "img": "https://static.futbolenlatv.com/img/32/20121222102708_flamengo.webp"
-    },
-    "time_visitante": {
-      "nome": "At. Paranaense Academy",
-      "img": "https://static.futbolenlatv.com/img/32/20190513105130-atletico-paranaense.webp"
-    },
-    "canais": [
-      "Uol esporte clube"
-    ]
-  },
-  {
-    "id": "holanda-x-polonia",
-    "campeonato": "FIFA Copa do Mondo Feminina",
-    "hora": "13:00",
-    "time_casa": {
-      "nome": "Holanda",
-      "img": "https://static.futbolenlatv.com/img/32/20130130075711_holanda.webp"
-    },
-    "time_visitante": {
-      "nome": "Polônia",
-      "img": "https://static.futbolenlatv.com/img/32/20130528084142-Polonia.webp"
-    },
-    "canais": [
-      "NSports"
-    ]
-  },
-  {
-    "id": "suecia-x-italia",
-    "campeonato": "FIFA Copa do Mondo Feminina",
-    "hora": "13:00",
-    "time_casa": {
-      "nome": "Suécia",
-      "img": "https://static.futbolenlatv.com/img/32/20130204101348_suecia.webp"
-    },
-    "time_visitante": {
-      "nome": "Itália",
-      "img": "https://static.futbolenlatv.com/img/32/20130111045624_italia.webp"
-    },
-    "canais": [
-      "Disney+ Premium",
-      "ESPN 4"
-    ]
-  },
-  {
-    "id": "england-x-ucrania",
-    "campeonato": "FIFA Copa do Mondo Feminina",
-    "hora": "13:00",
+    "hora": "17:00",
     "time_casa": {
       "nome": "England",
       "img": "https://static.futbolenlatv.com/img/32/20130204124525_inglaterra.webp"
     },
     "time_visitante": {
-      "nome": "Ucrânia",
-      "img": "https://static.futbolenlatv.com/img/32/20130304045244_ucrania.webp"
+      "nome": "Costa Rica",
+      "img": "https://static.futbolenlatv.com/img/32/20130604072827-Costa-Rica.webp"
     },
     "canais": [
       "Disney+ Premium",
@@ -184,16 +84,16 @@
     ]
   },
   {
-    "id": "franca-x-republica_da_irlanda",
-    "campeonato": "FIFA Copa do Mondo Feminina",
+    "id": "malaga-x-las_palmas",
+    "campeonato": "LaLiga Hypermotion",
     "hora": "16:00",
     "time_casa": {
-      "nome": "França",
-      "img": "https://static.futbolenlatv.com/img/32/20130124053558_francia.webp"
+      "nome": "Malaga",
+      "img": "https://static.futbolenlatv.com/img/32/20130729013601-malaga.webp"
     },
     "time_visitante": {
-      "nome": "República da Irlanda",
-      "img": "https://static.futbolenlatv.com/img/32/20130521060225_republica-irlanda.webp"
+      "nome": "Las Palmas",
+      "img": "https://static.futbolenlatv.com/img/32/20121218094143_las-palmas.webp"
     },
     "canais": [
       "Disney+ Premium",
@@ -201,21 +101,35 @@
     ]
   },
   {
-    "id": "almeria-x-castellon",
-    "campeonato": "LaLiga Hypermotion",
-    "hora": "16:00",
+    "id": "vancouver_whitecaps_2-x-north_texas_sc",
+    "campeonato": "MLS Next Pro",
+    "hora": "22:00",
     "time_casa": {
-      "nome": "Almeria",
-      "img": "https://static.futbolenlatv.com/img/32/20190417031741-almeria.webp"
+      "nome": "Vancouver Whitecaps 2",
+      "img": "https://static.futbolenlatv.com/img/32/20160719122541-vancouver.webp"
     },
     "time_visitante": {
-      "nome": "Castellon",
-      "img": "https://static.futbolenlatv.com/img/32/20130321012805_castellon.webp"
+      "nome": "North Texas SC",
+      "img": "https://static.futbolenlatv.com/img/32/20251010102136-north-texas-soccer-club.webp"
     },
     "canais": [
-      "DGO",
-      "ESPN 2",
-      "Disney+ Premium"
+      "OneFootball"
+    ]
+  },
+  {
+    "id": "el_nacional-x-dep_santo_domingo",
+    "campeonato": "Serie B",
+    "hora": "21:00",
+    "time_casa": {
+      "nome": "EL Nacional",
+      "img": "https://static.futbolenlatv.com/img/32/20140720101115-club-deportivo-el-nacional.webp"
+    },
+    "time_visitante": {
+      "nome": "Dep. Santo Domingo",
+      "img": "https://static.futbolenlatv.com/img/32/20220427094222-deportivo-santo-domingo.webp"
+    },
+    "canais": [
+      "Liga Ecuabet YouTube"
     ]
   }
 ]
