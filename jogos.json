@@ -1,31 +1,33 @@
 [
   {
-    "id": "palmeiras_academy-x-santos_academy",
-    "campeonato": "Brasileiro U20",
-    "hora": "19:00",
-    "time_casa": {
-      "nome": "Palmeiras Academy",
-      "img": "https://static.futbolenlatv.com/img/32/20130207042018_palmeiras.webp"
-    },
-    "time_visitante": {
-      "nome": "Santos Academy",
-      "img": "https://static.futbolenlatv.com/img/32/20180213074034-santos.webp"
-    },
-    "canais": [
-      "Uol esporte clube"
-    ]
-  },
-  {
-    "id": "mexico-x-africa_do_sul",
+    "id": "canada-x-bosnia_herzegovina",
     "campeonato": "FIFA Copa do Mondo 2026",
     "hora": "16:00",
     "time_casa": {
-      "nome": "Mexico",
-      "img": "https://static.futbolenlatv.com/img/32/20130208071540_mexico.webp"
+      "nome": "Canada",
+      "img": "https://static.futbolenlatv.com/img/32/20130625051127-Canada.webp"
     },
     "time_visitante": {
-      "nome": "África do Sul",
-      "img": "https://static.futbolenlatv.com/img/32/20130103115154_sudafrica.webp"
+      "nome": "Bosnia & Herzegovina",
+      "img": "https://static.futbolenlatv.com/img/32/20130204101318_bosnia.webp"
+    },
+    "canais": [
+      "CazéTV YouTube",
+      "CazeTV",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "usa-x-paraguay",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "22:00",
+    "time_casa": {
+      "nome": "USA",
+      "img": "https://static.futbolenlatv.com/img/32/20130226100540_eeuu.webp"
+    },
+    "time_visitante": {
+      "nome": "Paraguay",
+      "img": "https://static.futbolenlatv.com/img/32/20130319095210_paraguay.webp"
     },
     "canais": [
       "CazéTV YouTube",
@@ -40,21 +42,70 @@
     ]
   },
   {
-    "id": "coreia_do_sul-x-republica_checa",
-    "campeonato": "FIFA Copa do Mondo 2026",
-    "hora": "23:00",
+    "id": "atletico_go-x-crb",
+    "campeonato": "Brasileirão Série B",
+    "hora": "19:00",
     "time_casa": {
-      "nome": "Coreia do Sul",
-      "img": "https://static.futbolenlatv.com/img/32/20130507121229_coreadelsur.webp"
+      "nome": "Atletico GO",
+      "img": "https://static.futbolenlatv.com/img/32/20200902145907-atletico-goianiense.webp"
     },
     "time_visitante": {
-      "nome": "Republica Checa",
-      "img": "https://static.futbolenlatv.com/img/32/20130410124454_republica-checa.webp"
+      "nome": "CRB",
+      "img": "https://static.futbolenlatv.com/img/32/20130510121115_crb.webp"
     },
     "canais": [
-      "CazéTV YouTube",
-      "CazeTV",
-      "Disney+ Premium"
+      "SportyNet",
+      "Disney+ Premium",
+      "Xsports",
+      "ESPN"
+    ]
+  },
+  {
+    "id": "santos_academy-x-jabaquara_ac_academy",
+    "campeonato": "Paulista Sub-20",
+    "hora": "15:00",
+    "time_casa": {
+      "nome": "Santos Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20180213074034-santos.webp"
+    },
+    "time_visitante": {
+      "nome": "Jabaquara AC Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20200907124721-jabaquara-atletico-clube.webp"
+    },
+    "canais": [
+      "Paulistão YouTube"
+    ]
+  },
+  {
+    "id": "santa_fe_fc_academy-x-america_sp_academy",
+    "campeonato": "Paulista Sub-23 Segunda Divisão",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "Santa Fé FC Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20241213164008-santa-fe-fc-academy.webp"
+    },
+    "time_visitante": {
+      "nome": "América SP Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20200907123601-america-rio-preto.webp"
+    },
+    "canais": [
+      "Paulistão YouTube"
+    ]
+  },
+  {
+    "id": "tukums_2000-x-bfc_daugavpils",
+    "campeonato": "Super Liga de Letônia",
+    "hora": "12:00",
+    "time_casa": {
+      "nome": "Tukums 2000",
+      "img": "https://static.futbolenlatv.com/img/32/20220304205248-fk-tukums-2000.webp"
+    },
+    "time_visitante": {
+      "nome": "BFC Daugavpils",
+      "img": "https://static.futbolenlatv.com/img/32/20220304205124-bfc-daugavpils.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
     ]
   }
 ]
