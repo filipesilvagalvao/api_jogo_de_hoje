@@ -1,60 +1,21 @@
 [
   {
-    "id": "espanha-x-cape_verde",
-    "campeonato": "FIFA Copa do Mondo 2026",
-    "hora": "13:00",
-    "time_casa": {
-      "nome": "Espanha",
-      "img": "https://static.futbolenlatv.com/img/32/20130727123206-espana.webp"
-    },
-    "time_visitante": {
-      "nome": "Cape Verde",
-      "img": "https://static.futbolenlatv.com/img/32/20130103114415_cabo-verde.webp"
-    },
-    "canais": [
-      "CazéTV YouTube",
-      "CazeTV",
-      "Disney+ Premium"
-    ]
-  },
-  {
-    "id": "belgium-x-egito",
+    "id": "franca-x-senegal",
     "campeonato": "FIFA Copa do Mondo 2026",
     "hora": "16:00",
     "time_casa": {
-      "nome": "Belgium",
-      "img": "https://static.futbolenlatv.com/img/32/20130121023530_belgica.webp"
+      "nome": "França",
+      "img": "https://static.futbolenlatv.com/img/32/20130124053558_francia.webp"
     },
     "time_visitante": {
-      "nome": "Egito",
-      "img": "https://static.futbolenlatv.com/img/32/20130103115302_egipto.webp"
-    },
-    "canais": [
-      "CazéTV YouTube",
-      "CazeTV",
-      "Ge TV",
-      "Globoplay",
-      "Disney+ Premium",
-      "SporTV",
-      "Rede Globo"
-    ]
-  },
-  {
-    "id": "arabia_saudita-x-uruguai",
-    "campeonato": "FIFA Copa do Mondo 2026",
-    "hora": "19:00",
-    "time_casa": {
-      "nome": "Arábia Saudita",
-      "img": "https://static.futbolenlatv.com/img/32/20130730010609-arabia-saudi.webp"
-    },
-    "time_visitante": {
-      "nome": "Uruguai",
-      "img": "https://static.futbolenlatv.com/img/32/20130108083741_uruguay.webp"
+      "nome": "Senegal",
+      "img": "https://static.futbolenlatv.com/img/32/20130716094920-senegal.webp"
     },
     "canais": [
       "CazéTV YouTube",
       "CazeTV",
       "SBT",
+      "Ge TV",
       "Globoplay",
       "NSports",
       "Disney+ Premium",
@@ -63,16 +24,16 @@
     ]
   },
   {
-    "id": "ira-x-nova_zelandia",
+    "id": "iraque-x-norway",
     "campeonato": "FIFA Copa do Mondo 2026",
-    "hora": "22:00",
+    "hora": "19:00",
     "time_casa": {
-      "nome": "Irã",
-      "img": "https://static.futbolenlatv.com/img/32/20130528074944-Iran.webp"
+      "nome": "Iraque",
+      "img": "https://static.futbolenlatv.com/img/32/20130513103718_irak.webp"
     },
     "time_visitante": {
-      "nome": "Nova Zelândia",
-      "img": "https://static.futbolenlatv.com/img/32/20130523095300_nueva-zelanda.webp"
+      "nome": "Norway",
+      "img": "https://static.futbolenlatv.com/img/32/20171217021744-noruega.webp"
     },
     "canais": [
       "CazéTV YouTube",
@@ -81,100 +42,137 @@
     ]
   },
   {
-    "id": "criciuma-x-ceara",
-    "campeonato": "Brasileirão Série B",
-    "hora": "21:00",
+    "id": "argentina-x-argelia",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "22:00",
     "time_casa": {
-      "nome": "Criciuma",
+      "nome": "Argentina",
+      "img": "https://static.futbolenlatv.com/img/32/20130204101418_argentina.webp"
+    },
+    "time_visitante": {
+      "nome": "Argélia",
+      "img": "https://static.futbolenlatv.com/img/32/20130103113849_argelia.webp"
+    },
+    "canais": [
+      "CazéTV YouTube",
+      "CazeTV",
+      "Disney+ Premium",
+      "SporTV 2"
+    ]
+  },
+  {
+    "id": "fortaleza-x-america_mg",
+    "campeonato": "Brasileirão Série B",
+    "hora": "20:00",
+    "time_casa": {
+      "nome": "Fortaleza",
+      "img": "https://static.futbolenlatv.com/img/32/20160516115803-fortaleza-sc.webp"
+    },
+    "time_visitante": {
+      "nome": "America MG",
+      "img": "https://static.futbolenlatv.com/img/32/20200811213208-america-mg.webp"
+    },
+    "canais": [
+      "Canal GOAT",
+      "Disney+ Premium",
+      "Xsports",
+      "ESPN"
+    ]
+  },
+  {
+    "id": "criciuma_academy-x-palmeiras_academy",
+    "campeonato": "Brasileiro U20",
+    "hora": "15:00",
+    "time_casa": {
+      "nome": "Criciúma Academy",
       "img": "https://static.futbolenlatv.com/img/32/20121222102413_criciuma.webp"
     },
     "time_visitante": {
-      "nome": "Ceara",
-      "img": "https://static.futbolenlatv.com/img/32/20140724053102-ceara.webp"
+      "nome": "Palmeiras Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20130207042018_palmeiras.webp"
     },
     "canais": [
-      "Disney+ Premium"
+      "Uol esporte clube"
     ]
   },
   {
-    "id": "londrina-x-avai",
-    "campeonato": "Brasileirão Série B",
-    "hora": "21:00",
-    "time_casa": {
-      "nome": "Londrina",
-      "img": "https://static.futbolenlatv.com/img/32/20150220125822-londrina.webp"
-    },
-    "time_visitante": {
-      "nome": "Avai",
-      "img": "https://static.futbolenlatv.com/img/32/20150514110915-avai.webp"
-    },
-    "canais": [
-      "Disney+ Premium"
-    ]
-  },
-  {
-    "id": "ka_akureyri-x-fram",
+    "id": "stjarnan-x-breidablik",
     "campeonato": "Iceland Premier League",
-    "hora": "15:00",
+    "hora": "16:15",
     "time_casa": {
-      "nome": "KA Akureyri",
-      "img": "https://static.futbolenlatv.com/img/32/20220412192359-knattspyrnufelag-akureyrar.webp"
+      "nome": "Stjarnan",
+      "img": "https://static.futbolenlatv.com/img/32/20140819090758-stjarnan.webp"
     },
     "time_visitante": {
-      "nome": "Fram",
-      "img": "https://static.futbolenlatv.com/img/32/20140824075145-fram-reykjavik.webp"
+      "nome": "Breidablik",
+      "img": "https://static.futbolenlatv.com/img/32/20140103114350-breidablik-ubk.webp"
     },
     "canais": [
       "OneFootball PPV"
     ]
   },
   {
-    "id": "maringa-x-maranhao_ac",
-    "campeonato": "Serie C",
-    "hora": "19:30",
+    "id": "akranes-x-valur",
+    "campeonato": "Iceland Premier League",
+    "hora": "16:15",
     "time_casa": {
-      "nome": "Maringá",
-      "img": "https://static.futbolenlatv.com/img/32/20210517110636-maringa-fc.webp"
+      "nome": "Akranes",
+      "img": "https://static.futbolenlatv.com/img/32/20220412192332-iprottabandalag-akraness.webp"
     },
     "time_visitante": {
-      "nome": "Maranhão AC",
-      "img": "https://static.futbolenlatv.com/img/32/20221127112917-maranhao-atletico-clube.webp"
+      "nome": "Valur",
+      "img": "https://static.futbolenlatv.com/img/32/20190118093037-valur-reykjavik.webp"
     },
     "canais": [
-      "SportyNet"
+      "OneFootball PPV"
     ]
   },
   {
-    "id": "ferroviaria-x-barra_do_garcas_fc",
-    "campeonato": "Serie C",
-    "hora": "20:30",
+    "id": "vikingur_reykjavik-x-kr_reykjavik",
+    "campeonato": "Iceland Premier League",
+    "hora": "16:15",
     "time_casa": {
-      "nome": "Ferroviária",
-      "img": "https://static.futbolenlatv.com/img/32/20151107015201-ferroviaria.webp"
+      "nome": "Vikingur Reykjavik",
+      "img": "https://static.futbolenlatv.com/img/32/20220412192344-vikingur-reykjavik.webp"
     },
     "time_visitante": {
-      "nome": "Barra do Garças FC",
-      "img": "https://static.futbolenlatv.com/img/32/20220109194307-barra-garcas-fc.webp"
+      "nome": "KR Reykjavik",
+      "img": "https://static.futbolenlatv.com/img/32/20200814132630-kr-reykjavik.webp"
     },
     "canais": [
-      "SportyNet"
+      "OneFootball PPV"
     ]
   },
   {
-    "id": "ypiranga_fc-x-botafogo_pb",
-    "campeonato": "Serie C",
-    "hora": "20:30",
+    "id": "bfc_daugavpils-x-super_nova",
+    "campeonato": "Super Liga de Letônia",
+    "hora": "12:00",
     "time_casa": {
-      "nome": "Ypiranga FC",
-      "img": "https://static.futbolenlatv.com/img/32/20160701052940-ypiranga-fc.webp"
+      "nome": "BFC Daugavpils",
+      "img": "https://static.futbolenlatv.com/img/32/20220304205124-bfc-daugavpils.webp"
     },
     "time_visitante": {
-      "nome": "Botafogo PB",
-      "img": "https://static.futbolenlatv.com/img/32/20180111085826-botafogo-pb.webp"
+      "nome": "Super Nova",
+      "img": "https://static.futbolenlatv.com/img/32/20220304205145-sk-super-nova.webp"
     },
     "canais": [
-      "SportyNet",
-      "Canal do Benja / TMC"
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "sc_grobina-x-fk_liepaja",
+    "campeonato": "Super Liga de Letônia",
+    "hora": "13:00",
+    "time_casa": {
+      "nome": "SC Grobiņa",
+      "img": "https://static.futbolenlatv.com/img/32/20250622121900-sc-grobina.webp"
+    },
+    "time_visitante": {
+      "nome": "FK Liepaja",
+      "img": "https://static.futbolenlatv.com/img/32/20190929074451-fk-liepaja.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
     ]
   }
 ]
