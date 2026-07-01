@@ -1,15 +1,34 @@
 [
   {
-    "id": "costa_do_marfim-x-norway",
+    "id": "england-x-d_r_congo",
     "campeonato": "FIFA Copa do Mondo 2026",
-    "hora": "14:00",
+    "hora": "13:00",
     "time_casa": {
-      "nome": "Costa do Marfim",
-      "img": "https://static.futbolenlatv.com/img/32/20130103113744_cosa-de-marfil.webp"
+      "nome": "England",
+      "img": "https://static.futbolenlatv.com/img/32/20130204124525_inglaterra.webp"
     },
     "time_visitante": {
-      "nome": "Norway",
-      "img": "https://static.futbolenlatv.com/img/32/20171217021744-noruega.webp"
+      "nome": "D.R. Congo",
+      "img": "https://static.futbolenlatv.com/img/32/20130103115032_rep.-democrática-congo.webp"
+    },
+    "canais": [
+      "CazeTV",
+      "CazéTV YouTube",
+      "Disney+ Premium",
+      "Amazon Prime Video (Ver ao vivo)"
+    ]
+  },
+  {
+    "id": "belgium-x-senegal",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Belgium",
+      "img": "https://static.futbolenlatv.com/img/32/20130121023530_belgica.webp"
+    },
+    "time_visitante": {
+      "nome": "Senegal",
+      "img": "https://static.futbolenlatv.com/img/32/20130716094920-senegal.webp"
     },
     "canais": [
       "CazeTV",
@@ -24,137 +43,34 @@
     ]
   },
   {
-    "id": "franca-x-suecia",
+    "id": "usa-x-bosnia_herzegovina",
     "campeonato": "FIFA Copa do Mondo 2026",
-    "hora": "18:00",
+    "hora": "21:00",
     "time_casa": {
-      "nome": "França",
-      "img": "https://static.futbolenlatv.com/img/32/20130124053558_francia.webp"
+      "nome": "USA",
+      "img": "https://static.futbolenlatv.com/img/32/20130226100540_eeuu.webp"
     },
     "time_visitante": {
-      "nome": "Suécia",
-      "img": "https://static.futbolenlatv.com/img/32/20130204101348_suecia.webp"
+      "nome": "Bosnia & Herzegovina",
+      "img": "https://static.futbolenlatv.com/img/32/20130204101318_bosnia.webp"
     },
     "canais": [
       "CazeTV",
       "CazéTV YouTube",
-      "Disney+ Premium",
-      "Amazon Prime Video (Ver ao vivo)"
-    ]
-  },
-  {
-    "id": "mexico-x-equador",
-    "campeonato": "FIFA Copa do Mondo 2026",
-    "hora": "22:00",
-    "time_casa": {
-      "nome": "Mexico",
-      "img": "https://static.futbolenlatv.com/img/32/20130208071540_mexico.webp"
-    },
-    "time_visitante": {
-      "nome": "Equador",
-      "img": "https://static.futbolenlatv.com/img/32/20130204101510_ecuador.webp"
-    },
-    "canais": [
-      "CazeTV",
-      "CazéTV YouTube",
-      "Disney+ Premium",
-      "Amazon Prime Video (Ver ao vivo)",
-      "SporTV",
-      "Rede Globo"
-    ]
-  },
-  {
-    "id": "botafogo_sp-x-crb",
-    "campeonato": "Brasileirão Série B",
-    "hora": "20:00",
-    "time_casa": {
-      "nome": "Botafogo SP",
-      "img": "https://static.futbolenlatv.com/img/32/20140129024719-botafogo.webp"
-    },
-    "time_visitante": {
-      "nome": "CRB",
-      "img": "https://static.futbolenlatv.com/img/32/20130510121115_crb.webp"
-    },
-    "canais": [
       "Disney+ Premium"
     ]
   },
   {
-    "id": "caxias-x-anapolis",
-    "campeonato": "Serie C",
-    "hora": "19:30",
-    "time_casa": {
-      "nome": "Caxias",
-      "img": "https://static.futbolenlatv.com/img/32/20180118100256-ser-caxias.webp"
-    },
-    "time_visitante": {
-      "nome": "Anápolis",
-      "img": "https://static.futbolenlatv.com/img/32/20180123054503-anapolis.webp"
-    },
-    "canais": [
-      "SportyNet"
-    ]
-  },
-  {
-    "id": "volta_redonda-x-amazonas",
-    "campeonato": "Serie C",
-    "hora": "20:30",
-    "time_casa": {
-      "nome": "Volta Redonda",
-      "img": "https://static.futbolenlatv.com/img/32/20230921111555-volta-redonda.webp"
-    },
-    "time_visitante": {
-      "nome": "Amazonas",
-      "img": "https://static.futbolenlatv.com/img/32/20210407105748-amazonas-fc.webp"
-    },
-    "canais": [
-      "SportyNet"
-    ]
-  },
-  {
-    "id": "botafogo_pb-x-brusque",
-    "campeonato": "Serie C",
-    "hora": "20:30",
-    "time_casa": {
-      "nome": "Botafogo PB",
-      "img": "https://static.futbolenlatv.com/img/32/20180111085826-botafogo-pb.webp"
-    },
-    "time_visitante": {
-      "nome": "Brusque",
-      "img": "https://static.futbolenlatv.com/img/32/20170224023002-brusque.webp"
-    },
-    "canais": [
-      "Canal do Benja / TMC",
-      "SportyNet"
-    ]
-  },
-  {
-    "id": "rfs-x-bfc_daugavpils",
+    "id": "tukums_2000-x-super_nova",
     "campeonato": "Super Liga de Letônia",
     "hora": "12:00",
     "time_casa": {
-      "nome": "RFS",
-      "img": "https://static.futbolenlatv.com/img/32/20220907141835-rfs-riga.webp"
+      "nome": "Tukums 2000",
+      "img": "https://static.futbolenlatv.com/img/32/20220304205248-fk-tukums-2000.webp"
     },
     "time_visitante": {
-      "nome": "BFC Daugavpils",
-      "img": "https://static.futbolenlatv.com/img/32/20220304205124-bfc-daugavpils.webp"
-    },
-    "canais": [
-      "OneFootball PPV"
-    ]
-  },
-  {
-    "id": "fk_liepaja-x-fk_ogre_united",
-    "campeonato": "Super Liga de Letônia",
-    "hora": "13:00",
-    "time_casa": {
-      "nome": "FK Liepaja",
-      "img": "https://static.futbolenlatv.com/img/32/20190929074451-fk-liepaja.webp"
-    },
-    "time_visitante": {
-      "nome": "FK Ogre United",
-      "img": "https://static.futbolenlatv.com/img/32/20260316093526-fk-ogre-united.webp"
+      "nome": "Super Nova",
+      "img": "https://static.futbolenlatv.com/img/32/20220304205145-sk-super-nova.webp"
     },
     "canais": [
       "OneFootball PPV"
