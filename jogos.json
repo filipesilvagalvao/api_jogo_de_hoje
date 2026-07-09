@@ -1,72 +1,137 @@
 [
   {
-    "id": "ponte_preta-x-criciuma",
-    "campeonato": "Brasileirão Série B",
-    "hora": "20:00",
+    "id": "franca-x-marrocos",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "17:00",
     "time_casa": {
-      "nome": "Ponte Preta",
-      "img": "https://static.futbolenlatv.com/img/32/20121222104742_ponte-preta.webp"
+      "nome": "França",
+      "img": "https://static.futbolenlatv.com/img/32/20130124053558_francia.webp"
     },
     "time_visitante": {
-      "nome": "Criciuma",
-      "img": "https://static.futbolenlatv.com/img/32/20121222102413_criciuma.webp"
+      "nome": "Marrocos",
+      "img": "https://static.futbolenlatv.com/img/32/20130103114910_marruecos.webp"
     },
     "canais": [
+      "CazeTV",
+      "CazéTV YouTube",
       "Disney+ Premium",
-      "ESPN"
-    ]
-  },
-  {
-    "id": "flamengo_rj-x-lausanne_sport",
-    "campeonato": "Amigável",
-    "hora": "16:30",
-    "time_casa": {
-      "nome": "Flamengo RJ",
-      "img": "https://static.futbolenlatv.com/img/32/20121222102708_flamengo.webp"
-    },
-    "time_visitante": {
-      "nome": "Lausanne Sport",
-      "img": "https://static.futbolenlatv.com/img/32/20170707115944-lausanne-sport.webp"
-    },
-    "canais": [
       "Ge TV",
+      "SBT",
+      "NSports",
       "SporTV",
-      "Premiere"
+      "Rede Globo"
     ]
   },
   {
-    "id": "fluminense-x-nova_iguacu",
-    "campeonato": "Amigável",
-    "hora": "20:30",
+    "id": "atletic_escaldes-x-fk_mornar_bar",
+    "campeonato": "Conference League",
+    "hora": "11:00",
     "time_casa": {
-      "nome": "Fluminense",
-      "img": "https://static.futbolenlatv.com/img/32/20180122105234-Fluminense.webp"
+      "nome": "Atlètic Escaldes",
+      "img": "https://static.futbolenlatv.com/img/32/20220705173831-atletic-escaldes.webp"
     },
     "time_visitante": {
-      "nome": "Nova Iguaçu",
-      "img": "https://static.futbolenlatv.com/img/32/20180117113635-nova-iguacu.webp"
+      "nome": "FK Mornar Bar",
+      "img": "https://static.futbolenlatv.com/img/32/20220118202112-equipo-prueba.webp"
     },
     "canais": [
-      "Ge TV",
-      "SporTV",
-      "Premiere"
+      "OneFootball PPV"
     ]
   },
   {
-    "id": "boca_juniors-x-athletico_pr",
-    "campeonato": "Amigável",
-    "hora": "21:00",
+    "id": "marsaxlokk_fc-x-fc_pyunik",
+    "campeonato": "Conference League",
+    "hora": "14:00",
     "time_casa": {
-      "nome": "Boca Juniors",
-      "img": "https://static.futbolenlatv.com/img/32/20121219051310_boca-juniors.webp"
+      "nome": "Marsaxlokk FC",
+      "img": "https://static.futbolenlatv.com/img/32/20260708203921-marsaxlokk-fc.webp"
     },
     "time_visitante": {
-      "nome": "Athletico-PR",
-      "img": "https://static.futbolenlatv.com/img/32/20190513105130-atletico-paranaense.webp"
+      "nome": "FC Pyunik",
+      "img": "https://static.futbolenlatv.com/img/32/20180816060813-fc-pyunik.webp"
     },
     "canais": [
-      "Disney+ Premium",
-      "ESPN 4"
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "caernarfon-x-levadia",
+    "campeonato": "Conference League",
+    "hora": "14:30",
+    "time_casa": {
+      "nome": "Caernarfon",
+      "img": "https://static.futbolenlatv.com/img/32/20170125044441-caernarfon-town.webp"
+    },
+    "time_visitante": {
+      "nome": "Levadia",
+      "img": "https://static.futbolenlatv.com/img/32/20180708100200-fc-levadia.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "glentoran-x-rfs",
+    "campeonato": "Conference League",
+    "hora": "15:30",
+    "time_casa": {
+      "nome": "Glentoran",
+      "img": "https://static.futbolenlatv.com/img/32/20170203114617-glentoran.webp"
+    },
+    "time_visitante": {
+      "nome": "RFS",
+      "img": "https://static.futbolenlatv.com/img/32/20220907141835-rfs-riga.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "penybont-x-fc_santa_coloma",
+    "campeonato": "Conference League",
+    "hora": "15:45",
+    "time_casa": {
+      "nome": "Penybont",
+      "img": "https://static.futbolenlatv.com/img/32/20190718100024-penybont-fc.webp"
+    },
+    "time_visitante": {
+      "nome": "FC Santa Coloma",
+      "img": "https://static.futbolenlatv.com/img/32/20140722101503-fc-santa-coloma.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "hajduk_split-x-zilina",
+    "campeonato": "Europa League",
+    "hora": "15:00",
+    "time_casa": {
+      "nome": "Hajduk Split",
+      "img": "https://static.futbolenlatv.com/img/32/20160811055226-hajduk-split.webp"
+    },
+    "time_visitante": {
+      "nome": "Zilina",
+      "img": "https://static.futbolenlatv.com/img/32/20150807015530-zilina.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "cuenca_juniors-x-ldu_portoviejo",
+    "campeonato": "Serie B",
+    "hora": "17:30",
+    "time_casa": {
+      "nome": "Cuenca Juniors",
+      "img": "https://static.futbolenlatv.com/img/32/20250609202225-cuenca-juniors.webp"
+    },
+    "time_visitante": {
+      "nome": "LDU Portoviejo",
+      "img": "https://static.futbolenlatv.com/img/32/20141113045919-ldu-portoviejo.webp"
+    },
+    "canais": [
+      "Liga Ecuabet YouTube"
     ]
   }
 ]
