@@ -1,82 +1,67 @@
 [
   {
-    "id": "internacional-x-flamengo_rj",
+    "id": "corinthians-x-athletico_pr",
     "campeonato": "Brasileirão Série A",
     "hora": "19:30",
     "time_casa": {
-      "nome": "Internacional",
-      "img": "https://static.futbolenlatv.com/img/32/20121222103104_internacional.webp"
+      "nome": "Corinthians",
+      "img": "https://static.futbolenlatv.com/img/32/20121222102336_corinthians.webp"
     },
     "time_visitante": {
-      "nome": "Flamengo RJ",
-      "img": "https://static.futbolenlatv.com/img/32/20121222102708_flamengo.webp"
+      "nome": "Athletico-PR",
+      "img": "https://static.futbolenlatv.com/img/32/20190513105130-atletico-paranaense.webp"
     },
     "canais": [
-      "Amazon Prime Video (Ver ao vivo)"
-    ]
-  },
-  {
-    "id": "mirassol-x-remo",
-    "campeonato": "Brasileirão Série A",
-    "hora": "19:30",
-    "time_casa": {
-      "nome": "Mirassol",
-      "img": "https://static.futbolenlatv.com/img/32/20180207105031-mirassol.webp"
-    },
-    "time_visitante": {
-      "nome": "Remo",
-      "img": "https://static.futbolenlatv.com/img/32/20180131093504-remo.webp"
-    },
-    "canais": [
+      "RecordTV",
+      "CazéTV YouTube",
+      "CazeTV",
       "Premiere"
     ]
   },
   {
-    "id": "fluminense-x-bahia",
+    "id": "coritiba-x-cruzeiro",
     "campeonato": "Brasileirão Série A",
     "hora": "21:30",
     "time_casa": {
-      "nome": "Fluminense",
-      "img": "https://static.futbolenlatv.com/img/32/20180122105234-Fluminense.webp"
+      "nome": "Coritiba",
+      "img": "https://static.futbolenlatv.com/img/32/20190925103005-coritiba.webp"
     },
     "time_visitante": {
-      "nome": "Bahia",
-      "img": "https://static.futbolenlatv.com/img/32/20180209112818-bahia.webp"
+      "nome": "Cruzeiro",
+      "img": "https://static.futbolenlatv.com/img/32/20190115103202-cruzeiro.webp"
     },
     "canais": [
-      "Premiere",
-      "Rede Globo"
+      "SporTV",
+      "Premiere"
     ]
   },
   {
-    "id": "vitoria-x-palmeiras",
-    "campeonato": "Brasileirão Série A",
-    "hora": "21:30",
-    "time_casa": {
-      "nome": "Vitória",
-      "img": "https://static.futbolenlatv.com/img/32/20180207105843-vitoria.webp"
-    },
-    "time_visitante": {
-      "nome": "Palmeiras",
-      "img": "https://static.futbolenlatv.com/img/32/20130207042018_palmeiras.webp"
-    },
-    "canais": [
-      "Ge TV",
-      "Premiere",
-      "Rede Globo"
-    ]
-  },
-  {
-    "id": "vasco-x-ind_medellin",
+    "id": "gremio-x-bolivar",
     "campeonato": "Copa Sul-Americana",
     "hora": "19:00",
     "time_casa": {
-      "nome": "Vasco",
-      "img": "https://static.futbolenlatv.com/img/32/20121222111424_vasco-da-gama.webp"
+      "nome": "Gremio",
+      "img": "https://static.futbolenlatv.com/img/32/20121222103034_gremio.webp"
     },
     "time_visitante": {
-      "nome": "Ind. Medellin",
-      "img": "https://static.futbolenlatv.com/img/32/20130210120127_medellin.webp"
+      "nome": "Bolivar",
+      "img": "https://static.futbolenlatv.com/img/32/20130121041312_bolivar.webp"
+    },
+    "canais": [
+      "Paramount+"
+    ]
+  },
+  {
+    "id": "o_higgins-x-boca_juniors",
+    "campeonato": "Copa Sul-Americana",
+    "hora": "21:30",
+    "time_casa": {
+      "nome": "O'Higgins",
+      "img": "https://static.futbolenlatv.com/img/32/20130418043026_ohiggings.webp"
+    },
+    "time_visitante": {
+      "nome": "Boca Juniors",
+      "img": "https://static.futbolenlatv.com/img/32/20121219051310_boca-juniors.webp"
     },
     "canais": [
       "Disney+ Premium",
@@ -84,163 +69,114 @@
     ]
   },
   {
-    "id": "bragantino-x-sporting_cristal",
+    "id": "caracas-x-santa_fe",
     "campeonato": "Copa Sul-Americana",
     "hora": "21:30",
     "time_casa": {
-      "nome": "Bragantino",
+      "nome": "Caracas",
+      "img": "https://static.futbolenlatv.com/img/32/20130418104055_caracas-fc.webp"
+    },
+    "time_visitante": {
+      "nome": "Santa Fe",
+      "img": "https://static.futbolenlatv.com/img/32/20140307121806-santa-fe.webp"
+    },
+    "canais": [
+      "Paramount+"
+    ]
+  },
+  {
+    "id": "sporting_cp-x-nottingham",
+    "campeonato": "Amigável",
+    "hora": "20:00",
+    "time_casa": {
+      "nome": "Sporting CP",
+      "img": "https://static.futbolenlatv.com/img/32/20121220121058_sporting-clube-de-portugal.webp"
+    },
+    "time_visitante": {
+      "nome": "Nottingham",
+      "img": "https://static.futbolenlatv.com/img/32/20130410124910_nottingham-forest.webp"
+    },
+    "canais": [
+      "SportyNet YouTube",
+      "SportyNet"
+    ]
+  },
+  {
+    "id": "south_melbourne_fc-x-adelaide_united",
+    "campeonato": "Australian FFA Cup",
+    "hora": "06:30",
+    "time_casa": {
+      "nome": "South Melbourne FC",
+      "img": "https://static.futbolenlatv.com/img/32/20211108164845-south-melbourne-fc.webp"
+    },
+    "time_visitante": {
+      "nome": "Adelaide United",
+      "img": "https://static.futbolenlatv.com/img/32/20140706051737-adelaide-utd.webp"
+    },
+    "canais": [
+      " Football Australia YouTube"
+    ]
+  },
+  {
+    "id": "sydney_olympic_fc-x-brisbane_roar",
+    "campeonato": "Australian FFA Cup",
+    "hora": "06:30",
+    "time_casa": {
+      "nome": "Sydney Olympic FC",
+      "img": "https://static.futbolenlatv.com/img/32/20211117173005-sydney-olympic-fc.webp"
+    },
+    "time_visitante": {
+      "nome": "Brisbane Roar",
+      "img": "https://static.futbolenlatv.com/img/32/20150224110651-brisbane-roar.webp"
+    },
+    "canais": [
+      " Football Australia YouTube"
+    ]
+  },
+  {
+    "id": "palmeiras_academy-x-rb_bragantino_academy",
+    "campeonato": "Brasileiro U20",
+    "hora": "16:00",
+    "time_casa": {
+      "nome": "Palmeiras Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20130207042018_palmeiras.webp"
+    },
+    "time_visitante": {
+      "nome": "RB Bragantino Academy",
       "img": "https://static.futbolenlatv.com/img/32/20200122125639-rb-bragantino.webp"
     },
-    "time_visitante": {
-      "nome": "Sporting Cristal",
-      "img": "https://static.futbolenlatv.com/img/32/20130410092728_sporting-cristal.webp"
-    },
     "canais": [
-      "Paramount+"
+      "Uol esporte clube",
+      "SporTV"
     ]
   },
   {
-    "id": "cienciano-x-lanus",
-    "campeonato": "Copa Sul-Americana",
-    "hora": "21:30",
+    "id": "vasco_da_gama_academy-x-santos_academy",
+    "campeonato": "Brasileiro U20",
+    "hora": "18:30",
     "time_casa": {
-      "nome": "Cienciano",
-      "img": "https://static.futbolenlatv.com/img/32/20140912012204-cienciano.webp"
+      "nome": "Vasco da Gama Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20121222111424_vasco-da-gama.webp"
     },
     "time_visitante": {
-      "nome": "Lanús",
-      "img": "https://static.futbolenlatv.com/img/32/20121219051504_lanús.webp"
+      "nome": "Santos Academy",
+      "img": "https://static.futbolenlatv.com/img/32/20180213074034-santos.webp"
     },
     "canais": [
-      "Paramount+"
+      "SporTV"
     ]
   },
   {
-    "id": "kairat_almaty-x-omonia",
-    "campeonato": "Champions League",
-    "hora": "12:00",
-    "time_casa": {
-      "nome": "Kairat Almaty",
-      "img": "https://static.futbolenlatv.com/img/32/20210627111925-fc-kairat.webp"
-    },
-    "time_visitante": {
-      "nome": "Omonia",
-      "img": "https://static.futbolenlatv.com/img/32/20160617054403-ac-omonoia.webp"
-    },
-    "canais": [
-      "Xsports"
-    ]
-  },
-  {
-    "id": "gornik_zabrze-x-fenerbahce",
-    "campeonato": "Champions League",
-    "hora": "15:00",
-    "time_casa": {
-      "nome": "Gornik Zabrze",
-      "img": "https://static.futbolenlatv.com/img/32/20200523203013-gornik-zabrze.webp"
-    },
-    "time_visitante": {
-      "nome": "Fenerbahce",
-      "img": "https://static.futbolenlatv.com/img/32/20121221105219_fenerbahçe.webp"
-    },
-    "canais": [
-      "OneFootball PPV"
-    ]
-  },
-  {
-    "id": "tottenham-x-sydney_fc",
-    "campeonato": "Amigável",
-    "hora": "00:00",
-    "time_casa": {
-      "nome": "Tottenham",
-      "img": "https://static.futbolenlatv.com/img/32/20200413194326-tottenham.webp"
-    },
-    "time_visitante": {
-      "nome": "Sydney FC",
-      "img": "https://static.futbolenlatv.com/img/32/20171008093928-sydney.webp"
-    },
-    "canais": [
-      "SportyNet YouTube",
-      "SportyNet"
-    ]
-  },
-  {
-    "id": "cerezo_osaka-x-dortmund",
-    "campeonato": "Amigável",
-    "hora": "07:00",
-    "time_casa": {
-      "nome": "Cerezo Osaka",
-      "img": "https://static.futbolenlatv.com/img/32/20130329012034_cerezo-osaka.webp"
-    },
-    "time_visitante": {
-      "nome": "Dortmund",
-      "img": "https://static.futbolenlatv.com/img/32/20121218101655_borussia-dortmund.webp"
-    },
-    "canais": [
-      "SportyNet YouTube",
-      "Xsports",
-      "SportyNet"
-    ]
-  },
-  {
-    "id": "liverpool-x-wrexham",
-    "campeonato": "Amigável",
-    "hora": "20:30",
-    "time_casa": {
-      "nome": "Liverpool",
-      "img": "https://static.futbolenlatv.com/img/32/20240923180620-liverpool.webp"
-    },
-    "time_visitante": {
-      "nome": "Wrexham",
-      "img": "https://static.futbolenlatv.com/img/32/20131205092802-wrexham.webp"
-    },
-    "canais": [
-      "SportyNet YouTube"
-    ]
-  },
-  {
-    "id": "sunderland-x-leeds",
-    "campeonato": "Amigável",
-    "hora": "21:00",
-    "time_casa": {
-      "nome": "Sunderland",
-      "img": "https://static.futbolenlatv.com/img/32/20121218101008_sunderland.webp"
-    },
-    "time_visitante": {
-      "nome": "Leeds",
-      "img": "https://static.futbolenlatv.com/img/32/20130207050812_leeds-united.webp"
-    },
-    "canais": [
-      "SportyNet YouTube"
-    ]
-  },
-  {
-    "id": "barracas_central-x-aldosivi",
+    "id": "talleres_cordoba-x-velez_sarsfield",
     "campeonato": "Campeonato Argentino",
-    "hora": "14:30",
+    "hora": "19:00",
     "time_casa": {
-      "nome": "Barracas Central",
-      "img": "https://static.futbolenlatv.com/img/32/20141118022620-barracas.webp"
+      "nome": "Talleres Cordoba",
+      "img": "https://static.futbolenlatv.com/img/32/20160714102309-talleres-cordoba.webp"
     },
     "time_visitante": {
-      "nome": "Aldosivi",
-      "img": "https://static.futbolenlatv.com/img/32/20140826095110-aldosivi.webp"
-    },
-    "canais": [
-      "Disney+ Premium"
-    ]
-  },
-  {
-    "id": "gimnasia_lp-x-river_plate",
-    "campeonato": "Campeonato Argentino",
-    "hora": "19:15",
-    "time_casa": {
-      "nome": "Gimnasia LP",
-      "img": "https://static.futbolenlatv.com/img/32/20130729045030-gimnasia-lp.webp"
-    },
-    "time_visitante": {
-      "nome": "River Plate",
-      "img": "https://static.futbolenlatv.com/img/32/20121219051705_river-plate.webp"
+      "nome": "Vélez Sarsfield",
+      "img": "https://static.futbolenlatv.com/img/32/20121219051943_vélez-sarsfield.webp"
     },
     "canais": [
       "Disney+ Premium",
@@ -248,278 +184,291 @@
     ]
   },
   {
-    "id": "al_ula_fc-x-villarreal",
-    "campeonato": "Como Cup",
-    "hora": "14:00",
+    "id": "bucaramanga-x-llaneros",
+    "campeonato": "Campeonato colombiano",
+    "hora": "22:00",
     "time_casa": {
-      "nome": "Al-Ula FC",
-      "img": "https://static.futbolenlatv.com/img/32/20250915094404-al-ula-fc.webp"
+      "nome": "Bucaramanga",
+      "img": "https://static.futbolenlatv.com/img/32/20140228090756-bucaramanga.webp"
     },
     "time_visitante": {
-      "nome": "Villarreal",
-      "img": "https://static.futbolenlatv.com/img/32/20121218093727_villareal.webp"
+      "nome": "Llaneros",
+      "img": "https://static.futbolenlatv.com/img/32/20250501114320-club-llaneros-fc.webp"
     },
     "canais": [
-      "Uol esporte clube",
-      "UOL Play"
+      "RCN Nuestra Tele"
     ]
   },
   {
-    "id": "-x-como",
-    "campeonato": "Como Cup",
-    "hora": "15:30",
-    "time_casa": {
-      "nome": "",
-      "img": "https://static.futbolenlatv.com/img/32/20250915094404-al-ula-fc.webp"
-    },
-    "time_visitante": {
-      "nome": "Como",
-      "img": "https://static.futbolenlatv.com/img/32/20211013183924-calcio-como.webp"
-    },
-    "canais": [
-      "Uol esporte clube",
-      "UOL Play"
-    ]
-  },
-  {
-    "id": "-x-",
-    "campeonato": "Como Cup",
-    "hora": "17:00",
-    "time_casa": {
-      "nome": "",
-      "img": "https://static.futbolenlatv.com/img/32/20211013183924-calcio-como.webp"
-    },
-    "time_visitante": {
-      "nome": "",
-      "img": "https://static.futbolenlatv.com/img/32/20121218093727_villareal.webp"
-    },
-    "canais": [
-      "Uol esporte clube",
-      "UOL Play"
-    ]
-  },
-  {
-    "id": "umecit_fc-x-saprissa",
+    "id": "herediano-x-marathon",
     "campeonato": "CONCACAF Central American Cup",
-    "hora": "21:00",
+    "hora": "22:00",
     "time_casa": {
-      "nome": "UMECIT FC",
-      "img": "https://static.futbolenlatv.com/img/32/20230101120604-umecit-fc.webp"
+      "nome": "Herediano",
+      "img": "https://static.futbolenlatv.com/img/32/20140823093053-herediano.webp"
     },
     "time_visitante": {
-      "nome": "Saprissa",
-      "img": "https://static.futbolenlatv.com/img/32/20200627200711-saprissa-futbol-femenino.webp"
+      "nome": "Marathon",
+      "img": "https://static.futbolenlatv.com/img/32/20181220071013-marathon.webp"
     },
     "canais": [
       "Disney+ Premium"
     ]
   },
   {
-    "id": "alajuelense-x-xelaju",
-    "campeonato": "CONCACAF Central American Cup",
-    "hora": "23:00",
-    "time_casa": {
-      "nome": "Alajuelense",
-      "img": "https://static.futbolenlatv.com/img/32/20140315095137-alajuelense.webp"
-    },
-    "time_visitante": {
-      "nome": "Xelaju",
-      "img": "https://static.futbolenlatv.com/img/32/20200601113443-xelaju-mario-camposeco.webp"
-    },
-    "canais": [
-      "Disney+ Premium"
-    ]
-  },
-  {
-    "id": "alianza_fc-x-antigua",
-    "campeonato": "CONCACAF Central American Cup",
-    "hora": "23:00",
-    "time_casa": {
-      "nome": "Alianza FC",
-      "img": "https://static.futbolenlatv.com/img/32/20230124094103-alianza-fc.webp"
-    },
-    "time_visitante": {
-      "nome": "Antigua",
-      "img": "https://static.futbolenlatv.com/img/32/20160728075819-antigua.webp"
-    },
-    "canais": [
-      "Disney+ Premium"
-    ]
-  },
-  {
-    "id": "jamaica-x-panama",
+    "id": "costa_rica-x-antigua_and_barbuda",
     "campeonato": "CONCACAF Championship U20",
-    "hora": "17:00",
+    "hora": "19:00",
     "time_casa": {
-      "nome": "Jamaica",
-      "img": "https://static.futbolenlatv.com/img/32/20130528075437-Jamaica.webp"
+      "nome": "Costa Rica",
+      "img": "https://static.futbolenlatv.com/img/32/20130604072827-Costa-Rica.webp"
     },
     "time_visitante": {
-      "nome": "Panama",
-      "img": "https://static.futbolenlatv.com/img/32/20190512093725-panama2.webp"
+      "nome": "Antigua and Barbuda",
+      "img": "https://static.futbolenlatv.com/img/32/20190906081537-antigua-y-barbuda.webp"
     },
     "canais": [
       "Disney+ Premium"
     ]
   },
   {
-    "id": "canada-x-honduras",
+    "id": "mexico-x-guatemala",
     "campeonato": "CONCACAF Championship U20",
     "hora": "22:00",
     "time_casa": {
-      "nome": "Canada",
-      "img": "https://static.futbolenlatv.com/img/32/20130625051127-Canada.webp"
+      "nome": "Mexico",
+      "img": "https://static.futbolenlatv.com/img/32/20130208071540_mexico.webp"
     },
     "time_visitante": {
-      "nome": "Honduras",
-      "img": "https://static.futbolenlatv.com/img/32/20170321051224-honduras.webp"
+      "nome": "Guatemala",
+      "img": "https://static.futbolenlatv.com/img/32/20140913092220-guatemala.webp"
     },
     "canais": [
       "Disney+ Premium"
     ]
   },
   {
-    "id": "sk_rapid-x-fc_santa_coloma",
+    "id": "atletic_escaldes-x-vaduz",
     "campeonato": "Conference League",
-    "hora": "15:30",
+    "hora": "11:00",
     "time_casa": {
-      "nome": "SK Rapid",
-      "img": "https://static.futbolenlatv.com/img/32/20130705110807-rapid-viena.webp"
+      "nome": "Atlètic Escaldes",
+      "img": "https://static.futbolenlatv.com/img/32/20220705173831-atletic-escaldes.webp"
     },
     "time_visitante": {
-      "nome": "FC Santa Coloma",
-      "img": "https://static.futbolenlatv.com/img/32/20140722101503-fc-santa-coloma.webp"
+      "nome": "Vaduz",
+      "img": "https://static.futbolenlatv.com/img/32/20140918045623-vaduz.webp"
     },
     "canais": [
       "OneFootball PPV"
     ]
   },
   {
-    "id": "inter_palmira-x-inter_bogota",
-    "campeonato": "Copa Colombia",
-    "hora": "21:00",
+    "id": "auda-x-fcsb",
+    "campeonato": "Conference League",
+    "hora": "13:00",
     "time_casa": {
-      "nome": "Inter Palmira",
-      "img": "https://static.futbolenlatv.com/img/32/20240204195922-internacional-fc-palmira.webp"
+      "nome": "Auda",
+      "img": "https://static.futbolenlatv.com/img/32/20220304205227-fk-auda.webp"
     },
     "time_visitante": {
-      "nome": "Inter Bogotá",
-      "img": "https://static.futbolenlatv.com/img/32/20260116090726-internacional-bogota.webp"
+      "nome": "FCSB",
+      "img": "https://static.futbolenlatv.com/img/32/20201220191204-steaua-bucarest.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "gyori_eto-x-fc_atert_bissen",
+    "campeonato": "Conference League",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "Gyori ETO",
+      "img": "https://static.futbolenlatv.com/img/32/20160118050407-gyori-eto.webp"
+    },
+    "time_visitante": {
+      "nome": "FC Atert Bissen",
+      "img": "https://static.futbolenlatv.com/img/32/20260708204211-fc-atert-bissen.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "zalgiris_vilnius-x-dinamo_tbilisi",
+    "campeonato": "Conference League",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "Žalgiris Vilnius",
+      "img": "https://static.futbolenlatv.com/img/32/20130814022216-vmfd-zalgiris.webp"
+    },
+    "time_visitante": {
+      "nome": "Dinamo Tbilisi",
+      "img": "https://static.futbolenlatv.com/img/32/20130814024714-dinamo-tbilisi.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "hb_torshavn-x-motherwell",
+    "campeonato": "Conference League",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "HB Torshavn",
+      "img": "https://static.futbolenlatv.com/img/32/20170626113745-hb-torshavn.webp"
+    },
+    "time_visitante": {
+      "nome": "Motherwell",
+      "img": "https://static.futbolenlatv.com/img/32/20131022104404-motherwell.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "valletta-x-rakow",
+    "campeonato": "Conference League",
+    "hora": "14:30",
+    "time_casa": {
+      "nome": "Valletta",
+      "img": "https://static.futbolenlatv.com/img/32/20140722101127-valletta.webp"
+    },
+    "time_visitante": {
+      "nome": "Rakow",
+      "img": "https://static.futbolenlatv.com/img/32/20200525103006-rakow-czestochowa.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "fc_una_strassen-x-partizan_beograd",
+    "campeonato": "Conference League",
+    "hora": "15:15",
+    "time_casa": {
+      "nome": "FC UNA Strassen",
+      "img": "https://static.futbolenlatv.com/img/32/20250704101430-fc-una-strassen.webp"
+    },
+    "time_visitante": {
+      "nome": "Partizan Beograd",
+      "img": "https://static.futbolenlatv.com/img/32/20130716022259-partizan-belgrado.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "austria_vienna-x-fk_liepaja",
+    "campeonato": "Conference League",
+    "hora": "15:30",
+    "time_casa": {
+      "nome": "Austria Vienna",
+      "img": "https://static.futbolenlatv.com/img/32/20130809100221-austria-viena.webp"
+    },
+    "time_visitante": {
+      "nome": "FK Liepaja",
+      "img": "https://static.futbolenlatv.com/img/32/20190929074451-fk-liepaja.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "fc_koper-x-nsi_runavik",
+    "campeonato": "Conference League",
+    "hora": "15:45",
+    "time_casa": {
+      "nome": "FC Koper",
+      "img": "https://static.futbolenlatv.com/img/32/20140722103251-fc-koper.webp"
+    },
+    "time_visitante": {
+      "nome": "NSÍ Runavík",
+      "img": "https://static.futbolenlatv.com/img/32/20180710100329-runavik.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "envigado-x-once_caldas",
+    "campeonato": "Copa Colombia",
+    "hora": "17:30",
+    "time_casa": {
+      "nome": "Envigado",
+      "img": "https://static.futbolenlatv.com/img/32/20201015103457-envigado.webp"
+    },
+    "time_visitante": {
+      "nome": "Once Caldas",
+      "img": "https://static.futbolenlatv.com/img/32/20130216121352_once-caldas.webp"
     },
     "canais": [
       "Win Sports TV YouTube"
     ]
   },
   {
-    "id": "mls_all_star-x-liga_mx_all_star",
-    "campeonato": "MLS",
-    "hora": "20:00",
-    "time_casa": {
-      "nome": "MLS All-Star",
-      "img": "https://static.futbolenlatv.com/img/32/20130724093614-mls-all-start.webp"
-    },
-    "time_visitante": {
-      "nome": "Liga MX All-Star",
-      "img": "https://static.futbolenlatv.com/img/32/20170328013804-liga-mx-team.webp"
-    },
-    "canais": [
-      "Apple TV"
-    ]
-  },
-  {
-    "id": "kansas_city_current_w-x-racing_louisville_w",
-    "campeonato": "NWSL Women",
-    "hora": "21:00",
-    "time_casa": {
-      "nome": "Kansas City Current W",
-      "img": "https://static.futbolenlatv.com/img/32/20220908171415-kansas-city-current.webp"
-    },
-    "time_visitante": {
-      "nome": "Racing Louisville W",
-      "img": "https://static.futbolenlatv.com/img/32/20220623175700-racing-louisville-fc.webp"
-    },
-    "canais": [
-      "OneFootball"
-    ]
-  },
-  {
-    "id": "palmeiras_femenino-x-corinthians_w",
-    "campeonato": "Paulista Feminino",
-    "hora": "19:00",
-    "time_casa": {
-      "nome": "Palmeiras Femenino",
-      "img": "https://static.futbolenlatv.com/img/32/20130207042018_palmeiras.webp"
-    },
-    "time_visitante": {
-      "nome": "Corinthians W",
-      "img": "https://static.futbolenlatv.com/img/32/20121222102336_corinthians.webp"
-    },
-    "canais": [
-      "SporTV"
-    ]
-  },
-  {
-    "id": "ferroviaria_femenino-x-sc_taubate_feminino",
-    "campeonato": "Paulista Feminino",
-    "hora": "21:00",
-    "time_casa": {
-      "nome": "Ferroviária Femenino",
-      "img": "https://static.futbolenlatv.com/img/32/20151107015201-ferroviaria.webp"
-    },
-    "time_visitante": {
-      "nome": "SC Taubaté Feminino",
-      "img": "https://static.futbolenlatv.com/img/32/20130825032329-esporte_clube_taubate.webp"
-    },
-    "canais": [
-      "Paulistão YouTube"
-    ]
-  },
-  {
-    "id": "gana-x-cape_verde",
-    "campeonato": "Taça das Nações Africanas Feminina",
+    "id": "midtjylland-x-besiktas",
+    "campeonato": "Europa League",
     "hora": "14:00",
     "time_casa": {
-      "nome": "Gana",
-      "img": "https://static.futbolenlatv.com/img/32/20130103113545_ghana.webp"
+      "nome": "Midtjylland",
+      "img": "https://static.futbolenlatv.com/img/32/20130923112629-fc-midtjylland.webp"
     },
     "time_visitante": {
-      "nome": "Cape Verde",
-      "img": "https://static.futbolenlatv.com/img/32/20130103114415_cabo-verde.webp"
-    },
-    "canais": [
-      "CAF TV YouTube"
-    ]
-  },
-  {
-    "id": "camaroes-x-mali",
-    "campeonato": "Taça das Nações Africanas Feminina",
-    "hora": "17:00",
-    "time_casa": {
-      "nome": "Camarões",
-      "img": "https://static.futbolenlatv.com/img/32/20130528114257-Camerun.webp"
-    },
-    "time_visitante": {
-      "nome": "Mali",
-      "img": "https://static.futbolenlatv.com/img/32/20130103114840_mali.webp"
-    },
-    "canais": [
-      "CAF TV YouTube"
-    ]
-  },
-  {
-    "id": "betis-x-lyon",
-    "campeonato": "Trofeo Ciudad de la Línea",
-    "hora": "15:00",
-    "time_casa": {
-      "nome": "Betis",
-      "img": "https://static.futbolenlatv.com/img/32/20130924050626-real-betis.webp"
-    },
-    "time_visitante": {
-      "nome": "Lyon",
-      "img": "https://static.futbolenlatv.com/img/32/20121221104814_lyon.webp"
+      "nome": "Besiktas",
+      "img": "https://static.futbolenlatv.com/img/32/20130815104433-besiktas.webp"
     },
     "canais": [
       "Xsports"
+    ]
+  },
+  {
+    "id": "pafos-x-hajduk_split",
+    "campeonato": "Europa League",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "Pafos",
+      "img": "https://static.futbolenlatv.com/img/32/20210731103700-pafos-fc.webp"
+    },
+    "time_visitante": {
+      "nome": "Hajduk Split",
+      "img": "https://static.futbolenlatv.com/img/32/20160811055226-hajduk-split.webp"
+    },
+    "canais": [
+      "OneFootball PPV"
+    ]
+  },
+  {
+    "id": "senegal-x-quenia",
+    "campeonato": "Taça das Nações Africanas Feminina",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "Senegal",
+      "img": "https://static.futbolenlatv.com/img/32/20130716094920-senegal.webp"
+    },
+    "time_visitante": {
+      "nome": "Quênia",
+      "img": "https://static.futbolenlatv.com/img/32/20141007083536-kenia.webp"
+    },
+    "canais": [
+      "CAF TV YouTube"
+    ]
+  },
+  {
+    "id": "marrocos-x-argelia",
+    "campeonato": "Taça das Nações Africanas Feminina",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Marrocos",
+      "img": "https://static.futbolenlatv.com/img/32/20130103114910_marruecos.webp"
+    },
+    "time_visitante": {
+      "nome": "Argélia",
+      "img": "https://static.futbolenlatv.com/img/32/20130103113849_argelia.webp"
+    },
+    "canais": [
+      "CAF TV YouTube"
     ]
   }
 ]
